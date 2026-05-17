@@ -1,1 +1,1 @@
-# Idk-cheeck-out-yourself
+# Idk-check-out-yourself
