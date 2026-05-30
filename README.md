@@ -1,2 +1,2 @@
-# Idk-check-out-yourself
+# Idk check out yourself
 Simple RNG game with some easter eggs form my life...
