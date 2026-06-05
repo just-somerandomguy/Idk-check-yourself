@@ -6,7 +6,11 @@ I was too lazy to save all the source code in this repo so I just add it into ev
 Working on a mobile version...
 
 Minimal requierments:
+
 GPU: Uhhhhhhhh Intel i810
+
 CPU: Uhhhhhhhh Intel i810
+
 RAM: 50 MB
+
 Storage: 111 MB
