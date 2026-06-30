@@ -3,7 +3,7 @@ Simple RNG game with some easter eggs form my life and references...
 
 I was too lazy to save all the source code in this repo so I just add it into every release
 
-Working on code for mobile version...
+Working on code for mobile version... (This might take a while)
 
 Minimal requierments:
 
